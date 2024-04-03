@@ -8,9 +8,8 @@ It was created using:
 * CSS
 * JavaScript
 
-## Live Demo
 
-To see the live demo, please [click here](https://patriciageo3.github.io/).
+
 
 ## Authors
 
