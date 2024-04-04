@@ -10,7 +10,7 @@ It was created using:
 
 ## Live Demo
 
-To see the live demo, please [click here](https://patriciageo3.github.io/).
+To see the live demo, please [click here](https://aby0206.github.io/ZUZES/).
 
 ## Authors
 
